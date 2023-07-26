@@ -7,7 +7,7 @@ Archive of the Pigment project, hosted at `pigment.heroku.com`, circa 2008.
 
 ## Screenshots
 
-~[ScreenShot](ScreenShot.png)
+![ScreenShot](ScreenShot.png)
 
 ## Code
 
