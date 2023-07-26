@@ -4,6 +4,11 @@ Archive of the Pigment project, hosted at `pigment.heroku.com`, circa 2008.
 
 ## About
 
+Teaching the Machine About Colors
+
+Harnessing collective intelligence on the web to teach the machine about the abstraction of color.
+
+The idea for the application is to crowdsource the mapping for color names to their decimal values and provide services to exploit this information in aggregate, specifically: names-to-numbers and numbers-to-names.
 
 ## Screenshots
 
